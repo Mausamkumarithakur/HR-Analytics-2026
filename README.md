@@ -133,8 +133,6 @@ jupyter notebook IT_HR_Analytics.ipynb
 
 Go to `Kernel → Restart & Run All` to execute the full analysis.
 
-> ⚠️ Make sure `IT_HR_Analytics_Dataset.xlsx` is in the same folder as the notebook.
-
 ---
 
 ## 📷 Sample Visualizations
@@ -167,7 +165,7 @@ Based on the analysis, here are key HR recommendations:
 
 ## 👩‍💻 Author
 
-**Sia Sharma**
+**Mausamkumari Thakur**
 - 🎓 B.Tech in Information Technology — MIT ADT University
 - 💼 Aspiring Data Analyst | Python | SQL | Tableau | Power BI
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mausamkumari-thakur-81471b291/)
