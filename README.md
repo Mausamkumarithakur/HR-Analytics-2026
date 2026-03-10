@@ -170,15 +170,7 @@ Based on the analysis, here are key HR recommendations:
 **Sia Sharma**
 - 🎓 B.Tech in Information Technology — MIT ADT University
 - 💼 Aspiring Data Analyst | Python | SQL | Tableau | Power BI
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 💻 [GitHub](https://github.com/yourusername)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mausamkumari-thakur-81471b291/)
+- 💻 [GitHub](https://github.com/Mausamkumarithakur)
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-⭐ *If you found this project useful, consider giving it a star on GitHub!*
